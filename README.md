@@ -3,6 +3,9 @@
 Add Google Sheets-style horizontal scrolling to Microsoft Excel.
 
 Hold **Shift + Mouse Wheel** to scroll horizontally in Excel worksheets.
+## 🎬 Demo
+
+https://github.com/user-attachments/assets/104012bd-c410-482b-b5ce-00be38d300c4
 
 ## Features
 
